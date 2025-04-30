@@ -2,6 +2,8 @@
 
 `etcmew` is a collaboration between <https://github.com/fire> and <https://github.com/humbletim>.
 
+We thought it was fun that the organization name `etcmew` resembles `/etc/mew`.
+
 <!--
 
 **Here are some ideas to get you started:**
