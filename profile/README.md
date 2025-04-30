@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🐈
 
 `etcmew` is a collaboration between <https://github.com/fire> and <https://github.com/humbletim>.
 
